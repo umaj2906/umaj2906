@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umaj2906&label=Profile%20views&color=0e75b6&style=flat" alt="umaj2906" /> </p>
 
-- 🔭 I’m currently working on **CSR Ecplore**
+- 🔭 I’m currently working on **CSR Explorer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
